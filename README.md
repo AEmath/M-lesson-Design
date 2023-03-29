@@ -1,2 +1,10 @@
-# M-lesson-Design
-Micro-lesson design
+<!-- Author : Albus Guo -->
+<!-- Version : 3.0 -->
+<font face = "宋体">
+<font size = 4>
+
+
+# 说明
+
+1. 作品主体为 `三角形的中位线微课教学 数学师范.mp4` .
+2. 附件包含制作大纲、部分字体和课件原文件,为达到最佳播放效果,建议安装字体后播放课件 `三角形的中位线微课教学 数学师范.pptx`.
